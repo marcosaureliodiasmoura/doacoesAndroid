@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos">
+        <item>Educação</item>
+        <item>Moradores de Rua</item>
+        <item>Urbanização</item>
+        <item>Paz Mundial</item>
+        <item>Boas Ações</item>
+
+    </string-array>
+</resources>
